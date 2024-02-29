@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Projects\GlobalHotkeys\bin\Debug\GlobalHotkeys.exe
+C:\Users\user\Desktop\Projects\GlobalHotkeys\bin\Debug\GlobalHotkeys.pdb
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.Form1.resources
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.Properties.Resources.resources
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.exe
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.pdb
+C:\Users\user\Desktop\Projects\GlobalHotkeys\bin\Debug\Guna.UI.dll
+C:\Users\user\Desktop\Projects\GlobalHotkeys\obj\Debug\GlobalHotkeys.csproj.CopyComplete
